@@ -1,0 +1,9 @@
+# IntelliJ compiled output
+out/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Config file
+src/config.properties
